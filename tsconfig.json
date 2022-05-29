@@ -1,0 +1,9 @@
+﻿{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2022",
+    "sourceMap": true,
+    "allowJs": true,
+  },
+  "exclude": ["node_modules", "types"],
+}
